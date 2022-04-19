@@ -1,7 +1,7 @@
 # CS-350
 Embedded Systems
 
-Summarize the project and what problem it was solving.
+*Summarize the project and what problem it was solving.*
 
 This project created a simple thermostat using the CC3220S Microcontroller. A target
 temperature can be set on the board, which is compared from the reading from the temperature
